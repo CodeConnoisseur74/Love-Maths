@@ -20,8 +20,13 @@
       "**/core.python*": true,
       "**/CVS": true
    },
-   "files.autoSave": "off",
+   "files.autoSave": "afterDelay",
    "workbench.colorTheme": "Shades of Purple",
    "terminal.integrated.gpuAcceleration": "canvas",
-   "editor.defaultFormatter": "HookyQR.beautify"
+   "editor.defaultFormatter": "HookyQR.beautify",
+   "liveServer.settings.root": "/",
+   "liveServer.settings.port": 4000,
+   "liveServer.settings.useLocalIp": true,
+   "liveServer.settings.useWebExt": true,
+   "liveServer.settings.NoBrowser": true
 }
