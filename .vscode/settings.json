@@ -21,12 +21,15 @@
       "**/CVS": true
    },
    "files.autoSave": "afterDelay",
-   "workbench.colorTheme": "Shades of Purple",
+   "workbench.colorTheme": "Moonlight II",
    "terminal.integrated.gpuAcceleration": "canvas",
    "editor.defaultFormatter": "HookyQR.beautify",
-   "liveServer.settings.root": "/",
-   "liveServer.settings.port": 4000,
+   "liveServer.settings.root": "",
+   "liveServer.settings.port": 5500,
    "liveServer.settings.useLocalIp": true,
    "liveServer.settings.useWebExt": true,
-   "liveServer.settings.NoBrowser": true
+   "liveServer.settings.NoBrowser": false,
+   "open-php-html-js-in-browser.customUrlToOpen": "http://${host}/${relativeDirnameDocumentRoot}/${fileBasename}",
+   "livePreview.portNumber": 5500,
+   "livePreview.showServerStatusNotifications": true
 }
